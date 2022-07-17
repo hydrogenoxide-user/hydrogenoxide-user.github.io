@@ -839,7 +839,7 @@ i.iconfont {
 :root {
   --color-mode: "light";
   --body-bg-color: #ebf6f7;
-  --board-bg-color: #e4c6d0;
+  --board-bg-color: #fff;
   --text-color: #3c4858;
   --sec-text-color: #718096;
   --post-text-color: #2c3e50;
